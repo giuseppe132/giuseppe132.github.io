@@ -1,6 +1,10 @@
 html {
   background-image:url('the_truth.gif');
-}
+  background-repeat:repeat;
+  background-size: 100%;
+  background-position: center;
+      }
+
 .glitch {
   position: relative;
   font-size: 25px;
